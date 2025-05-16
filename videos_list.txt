@@ -1,0 +1,55 @@
+Loitering videos:
+
+https://www.youtube.com/watch?v=fgHTkM2UiCM - video on loitering
+https://www.youtube.com/watch?v=buQ3T6rjWZ8 - suspicious loiterers arrested by the police
+https://www.youtube.com/watch?v=20NPT7mRd30 - loiterer trying to get some information about a customer
+https://www.youtube.com/watch?v=Ncve2sfuKUY - loiterer spraying a wall in the night
+https://www.youtube.com/watch?v=cOvrfveSHdA - loiterer spraying on a wall in the morning
+https://www.youtube.com/watch?v=xYcP6OcufN4 - car parking loiterer. Not parking the car properly
+
+https://www.youtube.com/watch?v=VT4S5QZoGhw - suspicious drug activity
+https://www.youtube.com/watch?v=Cr6Ihe0D2vc - loiterer tampering shopping centre door
+https://www.youtube.com/watch?v=m9PxuKJ0Q-k - armed trespasser
+https://www.youtube.com/watch?v=fBwfFDcgJlk - people fighting
+https://www.youtube.com/watch?v=DxH1Co6_iws - late night heist
+https://www.youtube.com/watch?v=htOlJX85G-w - intoxicated intruder
+https://www.youtube.com/watch?v=gPorhltP5cg - masked man with a dog
+
+https://www.youtube.com/shorts/2BWTy7dbq_g - suspicious person trying to open a car door
+https://www.youtube.com/watch?v=Eum_10ziNRE - two guys trying to open a car door
+https://www.youtube.com/watch?v=lzETg-8TfBw - tailgating to enter a secure parking area
+https://www.youtube.com/watch?v=20JTAWPGgRU - tailgating to enter a room
+https://www.youtube.com/watch?v=ZRH767iVSHY - tailgating to enter a room part 2
+https://www.youtube.com/watch?v=ijQ2n_P1xT4 - series of tailgating videos
+https://www.youtube.com/shorts/xyRhK_74yWU - tailgating to gain entry to a room
+
+https://www.youtube.com/watch?v=X9jf-jr1tNY - ATM tampering
+https://www.youtube.com/watch?v=cun8kc8QpAA - ATM attempted robbery
+https://www.youtube.com/watch?v=iSNq19Yh2Mo - masked men atm bombing
+https://www.youtube.com/watch?v=yzuxlRunGa4 - ATM tampering
+https://www.youtube.com/watch?v=dQNjLvzN4yI - ATM tampering
+
+https://www.youtube.com/watch?v=BXqh1UNmRmI - armed man
+https://www.youtube.com/watch?v=KTDen9ooazo - masked men robbing
+https://www.youtube.com/watch?v=rEdigLsKZyA - armed robbery
+https://www.youtube.com/watch?v=aeFdHagjYqc - stealing
+https://www.youtube.com/watch?v=LrTND_DYPI4 - gas station robbery
+https://www.youtube.com/watch?v=VIEpIACcKg4 - shooting at robbers
+https://www.youtube.com/shorts/JaV-ZsKCgzA - kicking doors
+https://www.youtube.com/watch?v=962x798iuew - bank robbery
+https://www.youtube.com/watch?v=1LwKEPlVJ5M - bank vagrants
+https://www.youtube.com/watch?v=8RiKJFgluaw - attempted robbery
+https://www.youtube.com/watch?v=a2tqZ2-MM8s - break in a car - object detection
+https://www.youtube.com/watch?v=hdd2-RYz0ps - attempted robbery
+
+https://www.youtube.com/watch?v=hQmbN51_Pog - hurricane
+
+
+False positives:
+https://www.youtube.com/watch?v=ms-Q3t5IqNM - just a night view
+https://www.youtube.com/watch?v=KrwkXPs4IbM - cat and a car
+https://www.youtube.com/watch?v=-8-0sP5dfPQ - cars on the road
+https://www.youtube.com/shorts/49pkxx1LYKg - animals
+https://www.youtube.com/watch?v=w6c7yobLH_M - security guard
+https://www.youtube.com/watch?v=21BRjeGCbcs - normal bank transaction
+https://www.youtube.com/watch?v=1gi5qn1khVk - normal video - object tracking
